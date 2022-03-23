@@ -12,6 +12,8 @@
 //    M --> N[stampa in console 'userLastname']
 //    N --> O[stampa in console 'userColor']
 //    O --> P[FINE]
+
+
 // alert('Hello World!');
 
 let userName = prompt('Inserisci il tuo nome');
